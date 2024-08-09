@@ -1,0 +1,1 @@
+The GameTickets class is a Java Swing-based GUI application that allows users to purchase soccer match tickets. It includes input fields for customer details, teams, ticket cost, and a slider to select the number of tickets, with buttons for buying, clearing, or exiting the application. The class processes inputs to calculate the total cost and displays an invoice to the user.
